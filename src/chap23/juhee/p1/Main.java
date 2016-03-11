@@ -33,6 +33,7 @@ public class Main {
 //            val2 = new ArrayList<Integer>();
 
             StringTokenizer st = new StringTokenizer(br.readLine());
+        //    StringTokenizer st = new StringTokenizer(br.readLine());
 //            total.add(Integer.parseInt(st.nextToken()));
 //            val1.add(Integer.parseInt(st.nextToken())); // 32라는 숫자가 val1에 대입된다.
 //            val2.add(Integer.parseInt(st.nextToken()));
