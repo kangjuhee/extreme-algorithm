@@ -1,6 +1,7 @@
 package chap29.juhee.floyd;
 
 /**
+ * Floyd algorithm
  * Created by Juhee on 3/9/16.
  */
 
