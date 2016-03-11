@@ -5,8 +5,6 @@ import java.util.Arrays;
 
 /**
  * Priority Queue를 사용하지 않는 Dijkstra algorithm
- *
- * Created by 01032286016 on 2016. 3. 7..
  */
 public class Main {
 

@@ -8,8 +8,6 @@ import java.util.*;
 
 /**
  * 신호 라우팅
- *
- * Created by 01032286016 on 2016. 3. 8..
  */
 public class Main {
 
